@@ -1,0 +1,10 @@
+.cth {
+    background-color: rgb(132, 0, 255);
+    padding: 20px;
+  }
+  
+  @media screen and (min-width: 300px) {
+    body { 
+        background-color: lavender; 
+    } 
+  }
