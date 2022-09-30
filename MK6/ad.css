@@ -1,0 +1,10 @@
+div{
+    background-color: yellow;
+    font-style: oblique;
+    text-align: center;
+}
+
+p{
+   font-size: 100%; 
+   font-style: italic;
+}
